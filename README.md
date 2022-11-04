@@ -25,5 +25,6 @@
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1024px-Accenture.svg.png?20201204190130)
 ![logo](https://www.carlogos.org/logo/Tata-Group-logo-3840x2160.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/KPMG_logo.svg/2560px-KPMG_logo.svg.png)
 
 
