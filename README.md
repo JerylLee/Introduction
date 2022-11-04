@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
- I believe that data tells us more than just numbers, it helps us understand our users and their desires. Proficient in data formatting and graphic design with a passion for learning new tools and models of data visualization.
+ I believe that data tells us more than just numbers, it helps us understand our users and their desires. I'm proficient in data formatting and graphic design with a passion for learning new tools and models of data visualization.
 
 
 
